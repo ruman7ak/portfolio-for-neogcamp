@@ -37,6 +37,10 @@ body{
     border:1px solid var(--primary-colour);
 }
 
+.link-third{
+    color: var(--primary-colour);
+    text-decoration: none;
+}
 
     
 .non-blluet-lists{
@@ -64,9 +68,10 @@ body{
     text-align:right;
 }
 
-.navigation .brand{
+.navigation .brand-nav{
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 0.8rem;
+    text-align:left;
 }
 
 .navigation .link-active{
@@ -81,7 +86,7 @@ body{
 }
 
 .hero .hero-heading{
-    padding: 2rem;
+    padding: 1rem;
     color: burlywood;
     text-align:center
    }
@@ -112,6 +117,7 @@ body{
 .footer .link{
     color: white;
 }
+
 
 
 
