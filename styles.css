@@ -12,6 +12,12 @@ body{
     margin: 0px;
 }
 
+.non-blluet-lists .pad{
+    padding: 1rem;
+
+}
+
+
 .container{
     padding: 0rem 1rem;
 }
@@ -36,11 +42,12 @@ body{
 
 .link-secondary{
     
-    border-color:#075985 ;
-    border: solid  4px;
-     text-decoration: none;
+    border-color:var(--primary-colour);
+    border: solid  1px;
+    text-decoration: none;
     padding: 0.5rem;
-    border-radius: 1px;
+    border-radius: 10px;
+    color: var(--primary-colour);
 
 
 
@@ -90,7 +97,8 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
+    border-radius: 50%;
 }
 
 .hero .hero-img{
@@ -124,6 +132,8 @@ body{
     background-color: bisque;
 }
 
+
+
 .footer{
     padding: 2rem;
     text-align: center;
@@ -136,12 +146,6 @@ body{
     color: white;
 }
 
-.blog-showcase{
-    max-width: 700px;
-    text-align:center;
-    margin: auto;
-    padding: 0rem 1rem 0rem 0rem;
-}
 
 .section .link-blog{
     text-decoration: none;
