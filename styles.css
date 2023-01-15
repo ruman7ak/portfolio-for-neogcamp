@@ -32,8 +32,6 @@ body{
     padding: 0.5rem 1rem;
 }
 
-
-
 .link-primary{
     border-radius: 0.5rem;
     color: white;
@@ -48,10 +46,8 @@ body{
     padding: 0.5rem;
     border-radius: 10px;
     color: var(--primary-colour);
-
-
-
 }
+
 .link-third{
     color: var(--primary-colour);
     text-decoration: none;}
@@ -70,7 +66,6 @@ body{
     background-color: var(--primary-colour);
     color: white;
     padding: 1rem;
-
     border-bottom-left-radius: 1rem;
 }
 
@@ -78,7 +73,7 @@ body{
     color: white;
 }
 
-.nav{
+.pills{
     text-align:right;
 }
 
