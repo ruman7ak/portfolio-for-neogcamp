@@ -17,7 +17,6 @@ body{
 
 }
 
-
 .container{
     padding: 0rem 1rem;
 }
@@ -105,14 +104,15 @@ body{
 }
 
 
-
 .hero .hero-img{
-    border-radius: 30%;
+    height: 15rem;
     padding: 1rem;
-    width: 300px;
+    width: 350px;
     display: block;
-    margin: auto;
-}
+    margin-left: 27rem;
+    border-radius: 10%;
+} 
+
 
 .hero .hero-heading{
     padding: 0.1rem;
