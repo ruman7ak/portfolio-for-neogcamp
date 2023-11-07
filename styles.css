@@ -128,6 +128,9 @@ body{
 .hero .head-title{
   color: var(--primary-colour);  
   text-align: center;
+  margin: auto;
+  padding: 1rem;
+
 }
 
 .section{
